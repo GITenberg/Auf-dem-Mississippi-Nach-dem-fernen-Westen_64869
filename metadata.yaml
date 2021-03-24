@@ -1,0 +1,39 @@
+_repo: Auf-dem-Mississippi-Nach-dem-fernen-Westen_64869
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Richter, Albert
+    gutenberg_agent_id: '53081'
+    url: http://www.gutenberg.org/2009/agents/53081
+  - agent_name: Schrödter, H.
+    aliases:
+    - Schrodter, H.
+    - Schroedter, Hans
+    birthdate: 1872
+    deathdate: 1957
+    gutenberg_agent_id: '52891'
+    url: http://www.gutenberg.org/2009/agents/52891
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2021-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64869'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: "Auf dem Mississippi \x97 Nach dem fernen Westen"
+url: http://www.gutenberg.org/ebooks/64869
